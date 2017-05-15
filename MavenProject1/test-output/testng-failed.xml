@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="android.SimpleAndroidCalcTest">
+      <class name="android.section4_27_HandleMultiplaSimilarObjsWithIndex">
         <methods>
           <include name="setUp"/>
-          <include name="Sum"/>
-          <include name="End"/>
+          <include name="handerMultipleObjsWithIndex"/>
         </methods>
-      </class> <!-- android.SimpleAndroidCalcTest -->
+      </class> <!-- android.section4_27_HandleMultiplaSimilarObjsWithIndex -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
